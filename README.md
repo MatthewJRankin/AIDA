@@ -1,5 +1,5 @@
 # AIDA
-Air Infiltration Development Algorithm
+Air Infiltration Development Algorithm:
 
 This is a translation of the algorithm found in "A Guide to Energy Efficient Ventilation" (Martin W. Liddament, 1996). The program was originally written in BASIC, however, for ease of application, the decision was made to convert the code into Python.
 
